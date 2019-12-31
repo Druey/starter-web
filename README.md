@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work, Andrea
+This repository is for showing how Git and GitHub work, Andrea Andrea 2
 
 ## Purpose
 
