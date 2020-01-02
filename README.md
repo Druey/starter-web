@@ -6,4 +6,4 @@ This repository is for showing how Git and GitHub work, Andrea Andrea 2  ANDREA3
 
 Sample website with plenty of files for demos
 
-Git.Training12 copyright1ds 22 33
+Git.Training12 copyright1ds 22 33 44
