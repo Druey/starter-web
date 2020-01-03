@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work, Andrea Andrea 2  ANDREA3 ASNDREA4 
+This repository is for showing how Git and GitHub work, Andrea Andrea 2  ANDREA3 ASNDREA4 emergency
 
 ## Purpose
 
